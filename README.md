@@ -1,7 +1,7 @@
 # Yellowbrick
 
-Yellowbrick Financial guides their clients in securing structured financial plans based on their life insurance, retirement
-planning, and asset management needs. Yellowbrick is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, .NET, and React code.
+# Yellowbrick Financial guides their clients in securing structured financial plans based on their life insurance, retirement
+# planning, and asset management needs. Yellowbrick is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This # repository contains SQL, .NET, and React code.
 
 My role as a software engineer was to implement the functionality for user authentication and authorization, sending email requests, and creating the various dashboards. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
